@@ -26,7 +26,7 @@ pub fn find_min(vec: &Vec<i32>) -> i32{
 
 pub fn difference_sums(&sum1: &i32, &sum2: &i32) -> i32 {
     sum1 - sum2
-}
+} // don't use here :)
 
 pub fn average(vec: &Vec<i32>) -> f64 {
     if vec.is_empty() { return 0.0;};
